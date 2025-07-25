@@ -2,3 +2,8 @@
     font-family: Verdana, DejaVu Sans, sans-serif;
     background-color: #ffc0cb;
 }
+
+#line2 {
+    color: rgb(0,0,255);
+    font-size: 32px;
+}
